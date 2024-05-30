@@ -21,7 +21,7 @@ pip install pillow
 1. **Clone the Repository** 📂
    ```sh
    git clone https://github.com/Hyperstrom/ascii_art.git
-   cd <your-repo-folder>
+   cd ascii_art
    ```
 
 2. **Run the Script** 🖥️
